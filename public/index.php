@@ -7,6 +7,6 @@ use HelloWorld\SayHello;
 
 $helloWorld = new Hello();
 
-echo $helloWorld->world();
+echo $helloWorld->talk();
 
 $hello = new SayHello();
